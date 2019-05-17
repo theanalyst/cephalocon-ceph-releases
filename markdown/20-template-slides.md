@@ -280,3 +280,8 @@
 <!-- .slide: data-state="normal" id="burndown" data menu title="burndown"-->
 ### burndown
 <img alt="burndown" height=90% width=95% data-src="images/burndown-project.svg"/>
+
+
+<!-- .slide: data-state="normal" id="owners" data menu title="owners"-->
+### owners
+<img alt="owners" height=90% width=95% data-src="images/owners.svg"/>
