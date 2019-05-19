@@ -267,7 +267,8 @@
   week release target gets difficult
 - More contributors or test resource contributions can help us reach a better stable release cadence.
 - Every little bit helps!
-
+- Please shared feedback on release cadence & others at 
+https://pad.ceph.com/p/cephalocon-barcelona-2019-feedback
 
 
 <!-- .slide: data-state="section-break" data-menu-title="Stats" id="Stats" -->
@@ -282,6 +283,3 @@
 <img alt="burndown" height=90% width=95% data-src="images/burndown-project.svg"/>
 
 
-<!-- .slide: data-state="normal" id="owners" data menu title="owners"-->
-### owners
-<img alt="owners" height=90% width=95% data-src="images/owners.svg"/>
