@@ -12,6 +12,10 @@
 </div>
 
 
+<!-- .slide: data-state="normal" id="thanks" data menu title="thanks"-->
+# Thanks
+Nathan Cutler 
+
 
 <!-- .slide: data-state="section-break" data-menu-title="history-title" id="history-title" -->
 <div class="title">
@@ -25,8 +29,7 @@
 - Research grant from Dept. of Energy in cooperation with 
   Los Alamos, Lawrence Livermore & National Labs
 <img data-src="images/old_ceph_logo.png",
-     style="float: right"
-     alt="old ceph logo">
+     style="float: right"     alt="old ceph logo">
 - Code hit the CVS repository in 2004 (15th year in running!)
 - Open Sourced in 2006 under LGPLv2*
 - Research phase 2004 -2007, DH 2007-2012, Inktank 2012-14
@@ -271,6 +274,7 @@
 https://pad.ceph.com/p/cephalocon-barcelona-2019-feedback
 
 
+
 <!-- .slide: data-state="section-break" data-menu-title="Stats" id="Stats" -->
 <div class="title">
 <h1>Statistics</h1>
@@ -280,5 +284,14 @@ https://pad.ceph.com/p/cephalocon-barcelona-2019-feedback
 <!-- .slide: data-state="normal" id="burndown" data menu title="burndown"-->
 ### burndown
 <img alt="burndown" height=90% width=95% data-src="images/burndown-project.svg"/>
+
+
+<!-- .slide: data-state="normal" id="burndown" data menu title="burndown"-->
+### Commits by Organizations 
+<img alt="organizations" height=90% width=95% data-src="images/companies.png"/>
+
+
+### Contributors over releases 
+<img alt="organizations" height=90% width=95% data-src="images/contributort.svg"/>
 
 
