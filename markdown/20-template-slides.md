@@ -15,6 +15,7 @@
 <!-- .slide: data-state="normal" id="thanks" data menu title="thanks"-->
 # Thanks
 Nathan Cutler 
+Mohammed Gebai
 
 
 <!-- .slide: data-state="section-break" data-menu-title="history-title" id="history-title" -->
